@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import SecondPage from './SecondPage'
-import FirstPage from './first_page'
+import FirstPage from './First_page'
 import ThirdPage from './ThirdPage'
 import FourthPage from './FourthPage'
 import FIfthPage from './FifthPage'
